@@ -1,5 +1,5 @@
-/* Description: This program checks if a sequence of delimiters ( ), [ ], and { } is properly matched and nested. It uses a stack to push opening delimiters and to peek and pop when a 
-closing delimiter is read. It displays Valid or Invalid with a reason, and it prints a step-by-step stack trace while running.
+/* Description: This program checks if a sequence of delimiters ( ), [ ], and { } is properly matched and nested. It uses a stack to push every opening delimiter. When a closing delimiter is read, it checks if the stack is empty, peeks at the top, and pops it if it matches. 
+It then displays Valid or Invalid, with a short reason if the sequence is invalid.
 Programmed by: <Harold Niño R. Jangad> <BSIT> <48079> <Data Structure and Algorithm>
 Last Modified: October 23, 2026
 Version: 1.0
