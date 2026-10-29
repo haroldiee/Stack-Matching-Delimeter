@@ -131,8 +131,8 @@ Result: VALID
 ## Author
 
 - **Name:** <Harold Niño R. Jangad>
-- **Course:** <BSIT>
-- **Subject:** <Data Structure and Algorithm>
+- **Course:** <Bachelor Science in Information and Technology/BSIT>
+- **Subject:** <Data Structure and Algorithm/DSA>
 
 ## AI Disclosure
 
